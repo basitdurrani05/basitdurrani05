@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Basit Durrani</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding Image" width="400" src="![image](https://github.com/user-attachments/assets/77d4c81e-9c9b-444b-8acb-47a796b704ca)
-">
+<img align="right" alt="coding Image" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fcto-use-case-4-senior-software-engineer-flave-boulouma-cto--9hojf&psig=AOvVaw3MMXitik7n_bvGBG3sZhdZ&ust=1731411056687000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjm3_qW1IkDFQAAAAAdAAAAABAv">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basitdurrani05&label=Profile%20views&color=0e75b6&style=flat" alt="basitdurrani05" /> </p>
 
