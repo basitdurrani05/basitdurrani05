@@ -9,8 +9,6 @@
 
 - 📝 I regularly write articles on [https://www.blogger.com/profile/16470995530304815510](https://www.blogger.com/profile/16470995530304815510)
 
-- 📫 How to reach me **basitdurrani05786@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/basitdurrani05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="basitdurrani05" height="30" width="40" /></a>
